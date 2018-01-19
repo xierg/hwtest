@@ -38,7 +38,7 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.uwaysoft.rodapp.stu</string>
+    <string>com.uwaysoft.rodapp.teacher</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
     <string>1.0.0</string>
