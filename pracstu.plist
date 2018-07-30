@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>https://github.com/xierg/hwtest/releases/download/p-3.3-stu/app.ipa</string>
+     <string>https://github.com/xierg/hwtest/releases/download/p-3.4-stu/app.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
